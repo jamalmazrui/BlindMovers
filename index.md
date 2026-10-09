@@ -30,8 +30,6 @@ keywords:
   - guide dogs
 ---
 
-# Blind Movers
-
 A "blind mover" is someone with little or no usable sight who chooses to engage actively in exploring and enjoying the world. The reasons are practical and personal at once: health, social connection, and ongoing learning all benefit from regular movement, new places, and shared experiences. Sight is not required for any of this. Good information, a habit of asking, and the right network of organizations and tools are what is required.
 
 This guide collects those resources. A resource earns a place here when every one of the following is true:
