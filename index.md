@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Movers"
 subtitle: "Travel, Recreation, and Tourism While Blind or Low Vision"
 author: "Jamal Mazrui"
