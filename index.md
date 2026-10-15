@@ -1,6 +1,9 @@
 ---
 title: "Blind Movers"
 subtitle: "Travel, Recreation, and Tourism While Blind or Low Vision"
+description: "Resources for blind and low-vision adults who travel, explore, and play: apps, travel agencies, group trips, camps, sports, events, and access contacts."
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v1.1.0"
@@ -42,6 +45,8 @@ This guide collects those resources. A resource earns a place here when every on
 Resources are grouped by the kind of activity they support.
 
 The guide was developed by Jamal Mazrui with the assistance of an AI writing partner. The information is meant to stay useful from year to year. For specific trip dates, prices, and itineraries, the linked organization websites carry the current details.
+
+Each listed resource belongs to its organization. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Table of Contents
 
