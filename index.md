@@ -2,8 +2,8 @@
 title: "Blind Movers"
 subtitle: "Travel, Recreation, and Tourism While Blind or Low Vision"
 author: "Jamal Mazrui"
-date: "June 2026"
-version: "v1.0.7"
+date: "October 2026"
+version: "v1.1.0"
 lang: en-US
 toc: true
 toc-depth: 3
@@ -114,6 +114,7 @@ These apps were designed from the start for nonvisual use, with extra detail abo
 - **[Lazarillo](https://lazarillo.app/)** (free) — Spoken indoor and outdoor guidance, popular in transit hubs and shopping centers.
 - **[OKO](https://www.ayes.ai/oko)** (free) — Uses the phone camera to read pedestrian walk and don't-walk signals where there is no accessible pedestrian signal.
 - **[WeWALK](https://apps.apple.com/us/app/wewalk-smart-map/id1344297911)** (free, with in-app purchases; iPhone) — Built by a blind-led team, WeWALK pairs step-by-step walking navigation with unusually strong public-transit support: it lists nearby stops and the upcoming lines at each, and notifies the traveler as the get-off stop approaches, which makes mixed walking-and-transit trips much easier. An Explore mode announces nearby places while walking. The app works fully on its own; it can also pair with the optional WeWALK smart cane, and the company offers WeASSIST, a paid trained-agent visual-assistance service reached from inside the app.
+- **[Intersector](https://apps.apple.com/us/app/intersector/id6777891238)** (iPhone, with an Apple Watch companion) — Built by a blind developer, it announces the nearest and upcoming street intersections with their distance and direction, can scan for intersections in the direction the phone points, and works with Siri Shortcuts, without turning into turn-by-turn navigation.
 - **[StellarTrek](https://store.humanware.com/hus/stellartrek.html)** by HumanWare (dedicated device, premium-priced) — A standalone, weatherproof GPS and orientation device with physical buttons instead of a touchscreen, so it never competes for the phone battery and suits travelers who prefer tactile controls. Beyond routing, points of interest, intersection descriptions, and a virtual map-browsing mode for learning an area in advance, two rear cameras with on-device AI read street-address numbers, detect crosswalks, check pedestrian-signal color (beta), and help close the final forty feet to a door. Battery life runs to roughly twenty hours.
 
 ### Mainstream map apps with strong blindness features
@@ -148,6 +149,7 @@ These apps describe what a sighted person would see, on demand.
 - **[Envision](https://www.letsenvision.com/)** (free and paid) — Reads text, describes scenes, and works with Envision Glasses, a lightweight wearable that frees the hands.
 - **[Ally](https://www.ally.me/)** (free to download) — Envision's conversational AI assistant, reached by voice or text on iPhone, Android, the web, or Envision Glasses. It reads mail, menus, signs, and documents, describes surroundings, answers questions with live web search, and translates labels, and it remembers preferences a traveler sets, so noting a dietary need or a destination shapes later answers. A custom assistant can be named and given a personality. The free tier allows unlimited ten-minute conversations.
 - **[Meta Ray-Ban smart glasses](https://www.meta.com/ai-glasses/blind-visually-impaired/)** (paid) — Camera-equipped glasses with built-in Meta AI for hands-free scene description, voice-controlled photos and videos, and a "Live AI" mode for continuous on-the-spot interrogation of the surroundings. The glasses also connect to Be My Eyes for sighted-volunteer calls and to Aira for human and AI interpreters.
+- **[EchoVision](https://echovision.agiga.ai/)** by Agiga (paid) — AI glasses designed from the ground up for blind and low-vision users, with a wide-angle camera, open-ear audio, and buttons for scene description, reading text, and a live AI mode; they also call Be My Eyes and Aira by voice.
 
 Most of the free AI describer apps now include a "live mode" in which the phone camera streams continuously to an AI model that the user can interrogate by voice. Be My AI, Seeing AI, Google Lookout, Envision, Ally, and Aira AI all offer this. Ask "what's on the table in front of me," "what color is this shirt," or "is the bathroom door on the left or the right" and the answer comes back in a second or two. Live mode is especially useful in unfamiliar hotel rooms, airports, restaurants, and museums where pointing at a single static object is less informative than panning slowly and asking questions as the view changes.
 
