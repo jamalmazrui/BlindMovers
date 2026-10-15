@@ -1,12 +1,12 @@
 ---
 title: "Blind Movers"
-subtitle: "Travel, Recreation, and Tourism While Blind or Low Vision"
+subtitle: "A Directory of 144 Resources for Travel, Recreation, and Tourism While Blind or Low Vision"
 description: "Resources for blind and low-vision adults who travel, explore, and play: apps, travel agencies, group trips, camps, sports, events, and access contacts."
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.1.0"
+version: "v1.1.1"
 lang: en-US
 toc: true
 toc-depth: 3
